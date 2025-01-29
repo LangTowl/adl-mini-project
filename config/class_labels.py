@@ -6,6 +6,6 @@ class_labels = {
     "Person_sitting": 4,
     "Cyclist": 5,
     "Tram": 6,
-    # "Misc": 7,
-    # "DontCare": 8
+    # "Misc": 7,        # omitted
+    # "DontCare": 8     # omitted
 }
