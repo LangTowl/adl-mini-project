@@ -55,3 +55,17 @@ Develop a deep learning model for object detection to identify and localize obje
 1. A trained object detection model for cars, pedestrians, and cyclists.  
 2. Evaluation metrics and performance analysis (e.g., mAP and IoU scores).  
 3. Visualizations of detected objects on KITTI test images.
+### File Hierarchy
+---
+Shown below is the necessary file architecture for the data directory.
+```text
+adl-mini-project
+	/data
+		/images
+			/train
+			/val
+		/labels
+			/train
+			/val
+		/raw-labels
+```
